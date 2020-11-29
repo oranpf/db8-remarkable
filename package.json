@@ -1,0 +1,29 @@
+{
+    "name": "@db8/remarkable",
+    "version": "0.1.0",
+    "description": "A semantic markdown annotation toolkit",
+    "author": "Oran Switzer oran@db8.me",
+    "license": "MIT",
+    "keywords": [
+      "markdown",
+      "semantic",
+      "react"
+    ],
+    "homepage": "https://github.com/oranpf/db8-remarkable",
+    "bugs": {
+      "url": "https://github.com/oranpf/db8-remarkable/issues",
+      "email": "oran@db8.me"
+    },
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/oranpf/db8-remarkable.git"
+    },
+    "private": false,
+    "engines": {
+      "node": ">=8.16.2"
+    }
+  }
