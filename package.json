@@ -25,5 +25,9 @@
     "private": false,
     "engines": {
       "node": ">=8.16.2"
+    },
+    "dependencies": {
+      "marked": "^1.2.0",
+      "react": "^16.13.1"
     }
   }
